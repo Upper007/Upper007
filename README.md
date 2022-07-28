@@ -42,6 +42,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/Upper007/Upper007/blob/output/snake.svg" alt="Snake animation" />
+
 
 ###
