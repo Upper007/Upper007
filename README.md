@@ -1,16 +1,12 @@
-<h2 align="left">Hello my name is João and i'm a Front-end Developer from Brazil</h2>
+<h2 align="left">Hello my name is João and i'm a web Developer from Brazil</h2>
 
 ###
 
-<p align="left">I'm a Front-end web developer and I'm currently looking for an opportunity in the field. I try to acquire new skills that add to my performance and productivity. I'm willing to take on new challenges and keep up to date!</p>
+<p align="left">I am a web developer and currently looking for an opportunity in the field. Try to acquire new skills that add to my performance and productivity. I'm willing to take on new challenges and keep up to date!<br><br>I am currently studying:<br>-Javascript<br>- Node.js<br>- React.js<br>Goals:<br>- Work in web development<br>- Pursue a career in programming</p>
 
 ###
 
-<p align="left">I am currently studying 📚💻<br>- Javascript <br>- React.js<br>Goals:<br>- Working on the Front-end with React.js<br>- Pursue a career with Javascript</p>
-
-###
-
-<h3 align="left">Connect wiht me:</h3>
+<h2 align="left">Connect wiht me:</h2>
 
 ###
 
@@ -22,7 +18,7 @@
 
 ###
 
-<h3 align="left">Programming languages:</h3>
+<h2 align="left">Programming languages:</h2>
 
 ###
 
@@ -30,6 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
 </div>
 
