@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a web developer and currently looking for an opportunity in the field. Try to acquire new skills that add to my performance and productivity. I'm willing to take on new challenges and keep up to date!<br><br>I am currently studying:<br>-Javascript<br>- Node.js<br>- React.js<br>Goals:<br>- Work in web development<br>- Pursue a career in programming</p>
+<p align="left">I am a web developer and currently looking for an opportunity in the field. Try to acquire new skills that add to my performance and productivity. I'm willing to take on new challenges and keep up to date!<br><br>I am currently studying:<br>-Javascript<br>- Node.js<br>- Node Express<br>Goals:<br>- Work in web development<br>- Pursue a career in programming</p>
 
 ###
 
