@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a web developer and currently looking for an opportunity in the field. Try to acquire new skills that add to my performance and productivity. I'm willing to take on new challenges and keep up to date!<br><br>I am currently studying:<br>- Javascript, TypeScript<br>- Node.js, Node Express<br>- MongoDB, MaySQL, MVC<br>- Docker, AWS CDK<br>- API, NPM<br>Goals:<br>- Work in web development<br>- Pursue a career in programming</p>
+<p align="left">I am a web developer and currently looking for an opportunity in the field. Try to acquire new skills that add to my performance and productivity. I'm willing to take on new challenges and keep up to date!<br><br>I am currently studying:<br>- Javascript, TypeScript,<br>- PHP, Laravel,<br>- Node.js, Node Express<br>- MongoDB, MaySQL, MVC<br>- API, NPM<br>Goals:<br>- Work in web development<br>- Pursue a career in programming</p>
 
 ###
 
@@ -28,19 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" width="52" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Upper007" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Upper007" height="150" alt="languages graph"  />
-</div>
-
-###
-
 
 ###
